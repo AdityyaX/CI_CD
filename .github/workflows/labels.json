@@ -1,0 +1,32 @@
+[
+    {
+      "name": "bug",
+      "color": "d93f0b"
+    },
+    {
+      "name": "enhancement",
+      "color": "84b6eb"
+    },
+    {
+      "name": "question",
+      "color": "cc317c"
+    },
+    {
+      "name": "documentation",
+      "color": "5319e7"
+    },
+    {
+      "name": "duplicate",
+      "color": "cccccc"
+    },
+    {
+      "name": "invalid",
+      "color": "e6e6e6"
+    },
+    {
+      "name": "wontfix",
+      "color": "ffffff"
+    }
+
+  ]
+  
